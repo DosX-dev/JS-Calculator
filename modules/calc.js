@@ -1,3 +1,5 @@
+// Coded by DosX
+
 function Calculate(Ex) {
 	var allowedChars = '0123456789+-*/(). ';
 	for (var i = 0; i < Ex.length; i++) {
