@@ -1,3 +1,5 @@
+// Coded by DosX
+
 import System;
 import System.IO;
 import System.Diagnostics;
